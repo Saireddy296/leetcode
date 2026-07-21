@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Saireddy296/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Saireddy296/leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Saireddy296/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
