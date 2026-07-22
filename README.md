@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Saireddy296/leetcode/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Saireddy296/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
