@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Saireddy296/leetcode/tree/master/0088-merge-sorted-array) |
 | [0541-reverse-string-ii](https://github.com/Saireddy296/leetcode/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/Saireddy296/leetcode/tree/master/0917-reverse-only-letters) |
 | [3794-reverse-string-prefix](https://github.com/Saireddy296/leetcode/tree/master/3794-reverse-string-prefix) |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Saireddy296/leetcode/tree/master/0182-duplicate-emails) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Saireddy296/leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Saireddy296/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
